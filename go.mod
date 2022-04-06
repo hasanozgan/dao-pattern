@@ -46,4 +46,5 @@ require (
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
 	sourcegraph.com/sourcegraph/go-diff v0.5.0 // indirect
 	sourcegraph.com/sqs/pbtypes v1.0.0 // indirect
+	gopkg.in/yaml.v2 v2.2.8
 )
