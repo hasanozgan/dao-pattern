@@ -13,7 +13,7 @@ require (
 	github.com/go-toolsmith/astp v1.0.0 // indirect
 	github.com/go-toolsmith/pkgload v1.0.0 // indirect
 	github.com/go-toolsmith/typep v1.0.0 // indirect
-	github.com/gogo/protobuf v1.2.0 // indirect
+	github.com/gogo/protobuf v1.3.2
 	github.com/golang/mock v1.2.0
 	github.com/golangci/errcheck v0.0.0-20181223084120-ef45e06d44b6 // indirect
 	github.com/golangci/gocyclo v0.0.0-20180528144436-0a533e8fa43d // indirect
